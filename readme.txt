@@ -1,0 +1,3 @@
+Yandex API  - is library consists of two parts. 1. Class Point - makes it possible to find out the coordinates of the location bar on the map Yandex. 2. Class Route - allows you to create a route for two points and find out the duration of the route, the duration with traffic jams and the distance.
+
+Yandex API - независима€ библиотека дл€ java состо€ща€ из дву частей: 1. класс Point - позвол€ет определить координаты по адресу (словестна€ строка адреса) с помощью сервиса яндекс √еокодер. 2.  ласс Route - позвол€ет проложить маршрут по двум точкам, св€затьс€ с сервисом яндекс ћаршрутизатор и получить длительность маршрута, длительность марщрута при текущей загруженности дорог, дистанци€ маршрута в метрах.
